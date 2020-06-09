@@ -1,6 +1,6 @@
-game = [[1, 0, 2],
-        [0, 1, 2],
-        [2, 0, 1],
+game = [[0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0],
         ]
 
 
@@ -25,5 +25,3 @@ def checkGrid(grid):
 
     return 0
 
-
-print(checkGrid(game))
